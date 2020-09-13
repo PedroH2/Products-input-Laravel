@@ -4,8 +4,11 @@ O propósito da aplicação é de cadastro de produtos e sua localização no Xa
 
 Desenvolvido em PHP com o framework Laravel e banco de dados MySQL.
 
-Versão do PHP: 7.4.9. Ultimos releases e informações sobre versão da linguagem no link: https://www.php.net/releases/index.php
-Versão do Laravel: 8. Ultimos releases e informações do frameword Laravel no link: https://laravel.com/docs/7.x/releases
+Versão do PHP: 7.4.9. Ultimos releases e informações sobre versão da linguagem no link: https://www.php.net/releases/index.php;
+
+Versão do Laravel: 8. Ultimos releases e informações do frameword Laravel no link: https://laravel.com/docs/7.x/releases;
+
+
 Versão do MySQL: 8.0
 
 Como rodar a aplicação na máquina local?
