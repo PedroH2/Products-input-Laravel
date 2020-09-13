@@ -1,3 +1,29 @@
+Single page website para cadastro de produtos e amostragem de localização para facilitação de compra
+
+O propósito da aplicação é de cadastro de produtos e sua localização no Xastre Market, um mercado que esta iniciando as suas atividades e deseja facilitar a localização dos produtos em sua loja afim de evitar aglomerações por conta do covid-19. A aplicação mostra o preço do produto, o corredor do produto, a prateleira onde o produto se encontra, e o lado, marcado como L ou R (Left ou Right).
+
+Desenvolvido em PHP com o framework Laravel e banco de dados MySQL.
+
+Versão do PHP: 7.4.9. Ultimos releases e informações sobre versão da linguagem no link: https://www.php.net/releases/index.php
+Versão do Laravel: 8. Ultimos releases e informações do frameword Laravel no link: https://laravel.com/docs/7.x/releases
+Versão do MySQL: 8.0
+
+Como rodar a aplicação na máquina local?
+
+Abra o WampServer64 para que o servidor PHP fique pronto.
+Link de download: https://www.wampserver.com/
+
+Tenha o MySQL intalado em sua máquina.
+Link de download: https://dev.mysql.com/downloads/mysql/
+
+Abra o prompt de comando, navegue até a pasta onde se localiza a aplicação, digite o seguinte comando: php artisan serve.
+Com o servidor php rodando em sua máquina abra o navegador de sua preferência e digite na url: localhost:8000
+Feito isso a aplicação estará acessivel no seu navegador.
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
